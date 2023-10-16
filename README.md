@@ -1,5 +1,3 @@
-
-========================
 **Aspect Injector** is an attribute-based framework for creating and injecting aspects into your .net assemblies.
 
 ### Project Status
